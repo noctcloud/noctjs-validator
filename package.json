@@ -1,0 +1,24 @@
+{
+  "name": "noctjs-validator",
+  "version": "1.0.0",
+  "description": "JSON Schema数据校验器",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Sansnn",
+  "license": "MIT",
+  "dependencies": {
+    "jsonschema": "^1.4.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noctcloud/noct-validator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/noctcloud/noct-validator/issues"
+  },
+  "homepage": "https://github.com/noctcloud/noct-validator#readme"
+}
