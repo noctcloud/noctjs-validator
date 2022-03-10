@@ -1,4 +1,4 @@
-# NOCT-VALIDATOR
+# NOCTJS-VALIDATOR
 
 noctjs云函数请求数据校验器，校验器对`JSON Schema`进行了扩展，主要是本地化错误信息和数据类型转换。
 

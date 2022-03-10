@@ -6,7 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "noctjs",
+    "serverless"
+  ],
   "author": "Sansnn",
   "license": "MIT",
   "dependencies": {
@@ -15,10 +18,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/noctcloud/noct-validator.git"
+    "url": "git+https://github.com/noctcloud/noctjs-validator.git"
   },
   "bugs": {
-    "url": "https://github.com/noctcloud/noct-validator/issues"
+    "url": "https://github.com/noctcloud/noctjs-validator/issues"
   },
-  "homepage": "https://github.com/noctcloud/noct-validator#readme"
+  "homepage": "https://github.com/noctcloud/noctjs-validator#readme"
 }

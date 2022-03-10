@@ -1,5 +1,5 @@
 //---------------------------------------------------------------------
-// github        https://github.com/noctcloud/noct-validator
+// github        https://github.com/noctcloud/noctjs-validator
 // organization  Noct Cloud
 // author        Sansnn
 // license       MIT
