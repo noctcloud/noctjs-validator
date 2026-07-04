@@ -41,12 +41,12 @@ module.exports = class util {
         break;
       case "array":
         newData = [];
-        if (data instanceof Array) {
+        if (data instanceof Array || Array.isArray(data)) {
           newData = data;
         } else {
           try {
             var _data = JSON.parse(data);
-            if (_data instanceof Array) {
+            if (_data instanceof Array || Array.isArray(_data)) {
               newData = _data;
             }
           } catch (e) {
